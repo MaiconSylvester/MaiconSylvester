@@ -3,7 +3,9 @@
 Eu sou Maicon Sylvestre
 
 -Estou estudando no Alura
+
 -Estou me desenvolvendo na linguagem Javacript
+
 -Utilizo esse espaço para organização e compartilhamento dos meus projetos desemvolvidos
 
 # Você pode entrar em contato #
